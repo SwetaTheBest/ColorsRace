@@ -6,7 +6,7 @@ A demo showing coroutines update views in parallel on main UI Thread.
 
 > With love from Sweta 
 
-<img src="https://simpleicons.org/icons/github.svg" alt="Github" width=100 height=100>
+<img src="https://simpleicons.org/icons/kotlin.svg" alt="kotlin" width=100 height=100>
 
 
 
